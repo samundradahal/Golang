@@ -1,0 +1,5 @@
+Bill Preview
+Choclate                 ... : Rs 70.00
+Chini(1 kg)              ... : Rs 45.00
+tip                       ... Rs 5.00
+Total                     ... Rs 120.00

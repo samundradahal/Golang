@@ -1,0 +1,5 @@
+Bill Preview
+Momo                     ... : Rs 125.00
+Chiya                    ... : Rs 50.00
+tip                       ... Rs 0.00
+Total                     ... Rs 175.00
